@@ -26,7 +26,7 @@ Generate a PDF report of your liked YouTube videos with this Python script. This
 ## Usage
 
 Run the script:
-
+In order to run in non-Jupyter platform, convert file named 'python generate_pdf' to py extension and then:
 ``` bash
 python generate_pdf.py
 ```
